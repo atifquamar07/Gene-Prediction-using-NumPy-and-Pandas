@@ -1,4 +1,4 @@
-# Gene-Prediction-using-NumPy-and-Pandas
+# Gene Prediction using NumPy and Pandas
 
 ### Read file "**_Analysis_of_the_Problem_Statement.pdf_**" for the work done and in-depth analysis.
 
